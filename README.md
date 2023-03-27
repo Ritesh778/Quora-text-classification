@@ -35,8 +35,8 @@ This is project is based on the text classification using NLP.
     Removing commonly occuring words
 
 ### Stemming
-     Stemming is the process of reducing a word to its base or root form, also known as a stem, by removing any prefixes or suffixes. The resulting stem may not            necessarily be a word itself, but it represents the core meaning of the word.
-    Example:-"go","gone","going" ->"go
+     Stemming is the process of reducing a word to its base or root form, also known as a stem, by removing any prefixes or suffixes. The resulting stem may not      necessarily be a word itself, but it represents the core meaning of the word.
+     Example:-"go","gone","going" ->"go
              "birds","bird" -> "bird"
              
  # Implement Bag of Words
