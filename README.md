@@ -1,7 +1,7 @@
 # Quora-text-classification
 This is project is based on the text classification using NLP.
 
-#Prerequisites
+# Prerequisites
     -pip install scikit-learn
     -pip install pandas
     -pip install numpy
