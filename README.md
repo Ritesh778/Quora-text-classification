@@ -2,10 +2,10 @@
 This is project is based on the text classification using NLP.
 
 # Prerequisites
-    -pip install scikit-learn
-    -pip install pandas
-    -pip install numpy
-    -pip install nltk
+     pip install scikit-learn
+     pip install pandas
+     pip install numpy
+     pip install nltk
 
 # Text Classification with bag of words
     Outline:
